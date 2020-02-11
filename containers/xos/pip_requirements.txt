@@ -1,6 +1,6 @@
 pytz==2016.6.1
 Babel==2.3.4
-Django==1.8.14
+Django==1.11.28
 Jinja2==2.8
 Markdown==2.6.6
 MarkupSafe==0.23
