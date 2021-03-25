@@ -6,7 +6,7 @@ Markdown==2.6.6
 MarkupSafe==0.23
 Paste==2.0.3
 PasteDeploy==1.5.2
-PyYAML==3.12
+PyYAML==5.4
 Routes==2.3.1
 WebOb==1.6.1
 amqp==1.4.9
