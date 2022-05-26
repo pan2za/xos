@@ -144,7 +144,7 @@ structlog==16.1.0
 supervisor==3.0b2
 texttable==0.8.7
 tosca-parser==0.6.0
-twisted==16.6.0
+twisted==22.4.0
 unicodecsv==0.14.1
 uritemplate==0.6
 urllib3==1.7.1
